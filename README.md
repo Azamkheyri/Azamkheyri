@@ -1,6 +1,7 @@
 # Hi, I'm Azam 👋
 
-🎓 **Data Scientist** with Ph.D. in **Statistics** and postdoctoral research experience applying machine learning, predictive modeling,
+🎓 **Data Scientist** with Ph.D. in **Statistics** 
+**postdoctoral research** experience applying machine learning, predictive modeling,
 and optimization to engineering and social systems.
 
 📚 Sharing research code, case studies, and reproducible experiments from my publications  
