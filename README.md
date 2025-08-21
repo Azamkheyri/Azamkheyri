@@ -1,8 +1,7 @@
-# Hi, I'm Azam 👋
+### Hi, I'm Azam 👋  
 
-🎓 **Data Scientist** with Ph.D. in **Statistics** postdoctoral research experience applying machine learning, predictive modeling, and optimization to engineering and social systems.
-
-📚 Sharing research code, case studies, and reproducible experiments from my publications  
+📊 PhD in Statistics | Data Scientist  
+🔧 Maintenance Optimization · Graphical Models 
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/azam-kheyri/)  
