@@ -7,5 +7,4 @@ and optimization to engineering and social systems.
 📚 Sharing research code, case studies, and reproducible experiments from my publications  
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/azam-kheyri/)  
-[![Gmail](https://img.shields.io/badge/Gmail-azam.kheyri%40gmail.com-red?logo=gmail)](mailto:azam.kheyri@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/azam-kheyri/)[![Gmail](https://img.shields.io/badge/Gmail-azam.kheyri%40gmail.com-red?logo=gmail)](mailto:azam.kheyri@gmail.com)  
